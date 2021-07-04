@@ -10,9 +10,11 @@ h1 {
 }
 .statement {
   text-align: justify;
+  padding-right: 4%;
 }
 section {
   display: flex;
+  margin-bottom: 100px;
 }
 .half-width {
   width: 50%;
@@ -34,4 +36,9 @@ section {
 .top-section {
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
+}
+.middle-section {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: bottom right;
 }

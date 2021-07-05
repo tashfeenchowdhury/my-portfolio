@@ -70,6 +70,6 @@ h1 {
   border-image: linear-gradient(purple, cyan);
   border-image-slice: 1;
 }
-footer {
+footer p {
   text-align: center;
 }

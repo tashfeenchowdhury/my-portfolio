@@ -58,3 +58,15 @@ h1 {
   background-repeat: no-repeat;
   background-position: bottom left;
 }
+#baby-border {
+  border-left: 7px solid;
+  border-radius: 20px;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
+#fullstack-border {
+  border-left: 7px solid;
+  border-radius: 20px;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
